@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/adedayo_03" target="blank"><img src="https://img.shields.io/twitter/follow/adedayo_03?logo=twitter&style=for-the-badge" alt="adedayo_03" /></a> </p>
 
-- 🔭 I’m currently working on **My Final year project**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Software(Backend) & DevOps Engineering**
 
-- 💬 Ask me about **Ubuntu, Servers, Computers**
+- 💬 Ask me about **Linux, Ubuntu, Servers, Computers**
 
 - 📫 How to reach me **princeadedayo03@gmail.com**
 
