@@ -1,12 +1,13 @@
 <div class="container">
-<h1 class="center">Hi <span class="wave">👋</span>, I'm Adejare Adedayo</h1>
+<h1 align="center" class="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adejare Adedayo</h1>
 
-<h3 class="center">I'm a passionate Backend Software Engineer with a focus on building scalable and efficient applications. I thrive in the world of server-side development, where I turn ideas into robust, performant systems.</h3>
+<h3 align="center" class="center">I'm a passionate Backend Software Engineer with a focus on building scalable and efficient applications. I thrive in the world of server-side development, where I turn ideas into robust, performant systems.</h3>
 
 <p class="center"><img src="https://github-profile-trophy.vercel.app/?username=dprince-03&theme=darkhub" alt="GitHub Trophies" /></p>
 
-<h1 class="center">
-    <span class="typing-animation">Backend Developer • JavaScript Enthusiast • Linux Lover</span>
+<h1 align="center" class="center">
+<!--     <span class="typing-animation">Backend Developer • JavaScript Enthusiast • Linux Lover</span> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Backend+Developer;JavaScript+Enthusiast;Linux+Lover" alt="Typing SVG" />
 </h1>
 <h3>🔧 What I'm passionate about</h3>
 <ul>
@@ -39,7 +40,7 @@
     <li><strong>Framework:</strong> Express.js</li>
     <li><strong>Database:</strong> MongoDB</li>
     <li><strong>Version Control:</strong> Git</li>
-    <li><strong>OS:</strong> Linux</li>
+    <li><strong>OS:</strong> Linux(Ubuntu) </li>
 </ul>
 
 <h3 class="left">Languages and Tools:</h3>
@@ -54,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
-
+<br>
 <div class="stats-container">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dprince-03&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
