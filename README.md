@@ -31,6 +31,8 @@
     <li>Container technologies</li>
     <li>Performance optimization techniques</li>
     <li>Advanced MongoDB features</li>
+    <li>Advanced SQL's ( MySQL, Postgres ) features</li>
+    <li>System Designs, Caching, Nginx and API security </li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
@@ -38,8 +40,8 @@
     <li><strong>Languages:</strong> JavaScript</li>
     <li><strong>Runtime:</strong> Node.js</li>
     <li><strong>Framework:</strong> Express.js</li>
-    <li><strong>Database:</strong> MongoDB</li>
-    <li><strong>Version Control:</strong> Git</li>
+    <li><strong>Database:</strong> MongoDB, MySQL</li>
+    <li><strong>Version Control:</strong> Git, Github</li>
     <li><strong>OS:</strong> Linux(Ubuntu) </li>
 </ul>
 
