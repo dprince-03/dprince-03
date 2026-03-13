@@ -3,11 +3,11 @@
 
 <h3 align="center" class="center">I'm a passionate Backend Software Engineer with a focus on building scalable and efficient applications. I thrive in the world of server-side development, where I turn ideas into robust, performant systems.</h3>
 
-<p class="center"><img src="https://github-profile-trophy.vercel.app/?username=dprince-03&theme=darkhub" alt="GitHub Trophies" /></p>
+<!-- <p class="center"><img src="https://github-profile-trophy.vercel.app/?username=dprince-03&theme=darkhub" alt="GitHub Trophies" /></p> -->
 
 <h1 align="center" class="center">
-<!--     <span class="typing-animation">Backend Developer • JavaScript Enthusiast • Linux Lover</span> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Backend+Developer;JavaScript+Enthusiast;Linux+Lover" alt="Typing SVG" />
+    <!-- <span class="typing-animation">Backend Developer • JavaScript, GO, Java and C++ Enthusiast • Linux Lover</span> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Backend+Developer;JavaScript,GO,Java,Cpp+Enthusiast;Linux+Lover" alt="Typing SVG" />
 </h1>
 <h3>🔧 What I'm passionate about</h3>
 <ul>
@@ -37,10 +37,10 @@
 
 <h3>🛠️ Tech Stack</h3>
 <ul>
-    <li><strong>Languages:</strong> JavaScript</li>
-    <li><strong>Runtime:</strong> Node.js</li>
-    <li><strong>Framework:</strong> Express.js</li>
-    <li><strong>Database:</strong> MongoDB, MySQL</li>
+    <li><strong>Languages:</strong> JavaScript, Go</li>
+    <li><strong>Runtime:</strong> Node.js, GO</li>
+    <li><strong>Framework:</strong> Express.js, Gin</li>
+    <li><strong>Database:</strong> MongoDB, MySQL, Postgres SQL</li>
     <li><strong>Version Control:</strong> Git, Github</li>
     <li><strong>OS:</strong> Linux(Ubuntu) </li>
 </ul>
