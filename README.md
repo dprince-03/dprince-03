@@ -70,11 +70,29 @@ flowchart LR
 
 Retail, marketplace and wholesale in one platform.
 
+```mermaid
+flowchart LR
+    subgraph Web["Web · Next.js + Turborepo"]
+        W1[corporate] ~~~ W2[market] ~~~ W3[wholesale] ~~~ W4[seller] ~~~ W5[staff]
+    end
+    subgraph Mobile["Mobile · Expo"]
+        M1[customer] ~~~ M2[delivery]
+    end
+    T[["shared<br/>design tokens + api-client"]]
+    Web & Mobile --- T
+    T -- HTTP --> N[nginx] --> API["Go API<br/>Gin · sqlc · goose"]
+    API -- pgx --> DB[(PostgreSQL)]
+    R["Python recommendations<br/>(in progress)"] -. "nightly export /<br/>scored results" .-> API
+    R -.- RDB[(recs Postgres)]
+```
+
+Only the Go API touches the main database. The recommendation service has its own Postgres and talks to the API through internal endpoints.
+
 - **API:** Go with Gin, pgx, goose migrations and sqlc-generated queries
 - **Web:** five Next.js apps (corporate, market, wholesale, seller, staff) in a Turborepo
 - **Mobile:** two Expo apps (customer, delivery)
 - **Shared:** a design-token package and an API client used by both web and mobile
-- **Recommendations:** a separate Python service with its own database, which never touches the main one
+- **Recommendations (in progress):** a separate Python service with its own database. A nightly job trains the models and hands the scored results back to the Go API
 
 ### 🧑‍💻 [DevPrince-Portfolio](https://github.com/dprince-03/DevPrince-Portfolio) · portfolio with a real backend
 
